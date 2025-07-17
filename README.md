@@ -1,2 +1,2 @@
-# CeaserCipher
-Encrypt and Decrypt text using ceaser cipher in python
+# Caesar_Cipher
+Encrypt and Decrypt text using caesar cipher in python
